@@ -3,3 +3,5 @@ This repository contains the codes and presentations of my research on Physics-I
 <li>PINN is used to solve the nonlinear PDE of Burgers Equation in BE_PINN_Modified.ipynb notebook replicating a prior research with the addition of regularization, tuning, validation and a CPU vs GPU computation time comparison</li>
 <li>Head to LCD_PINN_Tuned.ipynb notebook to see how to tune the hyperparamters of PINN using the bayesian optimisation technique for solving the Linear Convection Diffusion PDE </li>
 <li>The hyperparameter-tuned PINN is compared with the analytical and numerical methods for solving the LCD equation in LCD_HTPINN+Anal+Numer.ipynb notebook</li>
+<li>My first attempt of implementing the SPINN architecture for solving the Bergers Equation can be found in BE_SPINN.ipynb notebook</li>
+<li>I solve the directional solidification problem (system of 2 PDEs) using PINN in DirSolid.ipynb notebook</li>
