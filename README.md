@@ -1,2 +1,2 @@
-Hi!
+This repository contains the codes and presentations of my research on Physics-Informed Neural Networks (PINNs) as a Inter-Disciplinary Dual Degree Programme (IDDDP) student at the Centre for Machine Intelligence & Data Science (C-MInDS), IIT Bombay. I worked in the Solidification and CoDeS (Computational and Data-enabled Simulations) Lab investigating how to solve complex problems using the framework of PINN and documented my study in the form of a thesis and presented to a panel of professors.
 <li>Want to know how to solve a simple ODE using a neural network? Check out the ODE_NN.ipynb notebook</li>
