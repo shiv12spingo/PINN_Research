@@ -8,4 +8,4 @@ This repository contains the codes and presentations of my research on Physics-I
 <li>My first attempt of implementing the SPINN architecture for solving the Bergers Equation can be found in BE_SPINN.ipynb notebook</li>
 <li>I solve the directional solidification problem (system of 2 PDEs) using PINN in DirSolid.ipynb notebook</li>
 <li>The 2-phase Stefan's Problem (system of 3 PDEs) is solved using PINN in Stefan's_Problem.ipynb notebook</li>
-<li>Go to the Solidification Problem folder for my research on solving a problem of benchmark complexity using physics-informed AI</li>
+<li>Go to the Solidification Problem folder for my research on solving a problem of benchmark complexity (system of 5 PDEs) using physics-informed AI</li>
