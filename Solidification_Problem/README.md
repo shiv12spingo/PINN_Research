@@ -5,3 +5,6 @@ This folder contains codes of my attempts at solving a solidification problem of
 <li>I implement causal training with 5 networks, one for each property-phase combination in Causal_Training_2.ipynb</li>
 <li>In Causal_Training_3.ipynb, I experiment with multiple learning rates and varying causality parameter values for the causal training approach with 3 networks, getting the best results for constant learning rate = 0.01 and increasing value of causality parameter while training for 1000 epochs</li>
 <li>I apply causal training with a modified sampling strategy and network structure in Causal_Training_4.ipynb</li>
+<li>In Causal_Training_5.ipynb, I experiment with causal training for solving a simpler problem now having smaller peaks in composition profile</li>
+<li>Simultaneous application of causal training and adaptive weighting can be found in CT_with_AW.ipynb</li>
+<li>In CT+AW.ipynb I load models which have been causal trained and follow it up with adaptive weighting, thereby applying them alternately</li>
