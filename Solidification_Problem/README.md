@@ -8,3 +8,5 @@ This folder contains codes of my attempts at solving a solidification problem of
 <li>In Causal_Training_5.ipynb, I experiment with causal training for solving a simpler problem now having smaller peaks in composition profile</li>
 <li>Simultaneous application of causal training and adaptive weighting can be found in CT_with_AW.ipynb</li>
 <li>In CT+AW.ipynb I load models which have been causal trained and follow it up with adaptive weighting, thereby applying them alternately</li>
+<li>I apply an efficient methodology based on my experiments with various strategies and achieve the best results in Final_Code.ipynb</li>
+<li>As the above program didn't have pre-defined seeds everywhere, so another run can be found in Code_Run_2.ipynb</li>
